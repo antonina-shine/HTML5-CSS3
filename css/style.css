@@ -481,3 +481,12 @@
     float: left;
     font-size: 32px;
 }
+
+.copyright {
+    width: 100%;
+    background-color: #f5f5f5;
+    padding: 10px 50px 10px 50px;
+    font-family: Arial;
+    color: #445162;
+    text-align: center;
+}
